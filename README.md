@@ -2,3 +2,6 @@
 - 👀 I’m interested in Security, Data Science, and AI
 - 🌱 I’m currently learning Computer Science at University of Pretoria
 - 📫 How to reach me: magerat18@gmail.com
+
+### Here are some gitlab higlights
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChrisMagerat)](https://github.com/ryo-ma/github-profile-trophy)
