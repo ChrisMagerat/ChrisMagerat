@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Computer Science at University of Pretoria
 - 📫 How to reach me: magerat18@gmail.com
 
-### Here are some gitlab higlights
+### Here are some githab higlights
 [![trophy](https://github-profile-trophy.vercel.app/?username=ChrisMagerat)](https://github.com/ryo-ma/github-profile-trophy)
